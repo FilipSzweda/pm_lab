@@ -1,0 +1,5 @@
+﻿  lab1.cpp
+D:\workspaces\pm_lab\lab1\lab1\lab1.cpp(9,27): warning C4018: '<': signed/unsigned mismatch
+D:\workspaces\pm_lab\lab1\lab1\lab1.cpp(10,19): warning C4018: '<': signed/unsigned mismatch
+D:\workspaces\pm_lab\lab1\lab1\lab1.cpp(22,27): warning C4018: '<': signed/unsigned mismatch
+  lab1.vcxproj -> D:\workspaces\pm_lab\lab1\Debug\lab1.exe
